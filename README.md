@@ -1,5 +1,7 @@
 # Dijkstra-carlane-graph
-Application of Dijkstra's algorithm on a changing graph
+Application of Dijkstra's algorithm on a changing graph with the help of a MinHeap Implementation
+
+Data structures used = Graph, MinHeap
 
 As a smart student you are always trying to optimise the driving time to your early morning
 algorithms lectures so that you can sleep more. You will be leveraging your algorithms skills
